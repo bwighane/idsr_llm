@@ -1,3 +1,5 @@
 qdrant_storage/
 
 chat_idsr/
+
+*.env
